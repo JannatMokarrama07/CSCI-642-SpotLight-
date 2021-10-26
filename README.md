@@ -7,7 +7,13 @@ In recent years, researchers are more actively seen to discuss on research artic
 The aim of this spotlight is to investigate the topics that are being discussed frequently in Facebook posts on scholarly articles using one of the most interesting text mining algorithms in natural language processing: Topic Modeling. Two popular topic modeling algorithms, LDA ((Latent Dirichlet Allocation) and GSDMM (Gibbs Sampling Dirichlet Multinomial Mixture) will be used for this purpose and compared on the basis of their performance with respect to better understandability and coherence of the topics. The core assumption of LDA is each document may have multiple topics associated with it, whereas GSDMM considers each document has only one underlying topic. So, it is considered by many researchers that LDA works better when document size is larger (>50), for example, news articles in newspapers, scientific articles in magazines, etc. and GSDMM works better in short-text documents, like posts in Twitter and Facebook, product reviews, etc. [4][6]. The text that will be used in this analysis will be of varying length ranging from 8 to about 72,000 with a mean of 658. Also, they are originally categorized in multiple topics. For this reason, analyzing the dataset with both LDA and GSDMM will help in getting a comparative picture of the sensitivity and performance in this corpus.
 
 ### *Dataset:* ###
-The dataset that will be used in this spotlight is originally collected from altmetric.com and used in [5].
+The dataset that will be used in this spotlight is on scholarly posts in Facebook and was originally collected from altmetric.com and used in [5].
+
+### *Spotlight Steps:* ###
+Here I worked in thre steps:
+*Task 1:* Setup
+*Task 2:* Data Loading, Exploration, and Preprocessing
+*Task 3:* Topic Modeling (i) GSDMM, (ii) LDA 
 
 ### References ###
 1. Zheng, H, et al. (2018) “Social Media Presence of Scholarly Journals”. Journal of the Association for Information Science And Technology, 70(3):256-270.
