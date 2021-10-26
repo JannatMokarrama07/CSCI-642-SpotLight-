@@ -10,9 +10,9 @@ The aim of this spotlight is to investigate the topics that are being discussed 
 The dataset that will be used in this spotlight is on scholarly posts in Facebook and was originally collected from altmetric.com and used in [5].
 
 ### *Spotlight Steps:* ###
-Here I worked in three steps:
-*_Task 1:_* Setup
-*Task 2:* Data Loading, Exploration, and Preprocessing
+Here I worked in three steps: <br>
+* _Task 1_ :* Setup <br>
+*Task 2:* Data Loading, Exploration, and Preprocessing <br>
 *Task 3:* Topic Modeling and visualization (i) GSDMM, (ii) LDA 
 
 ### References ###
