@@ -11,9 +11,9 @@ The dataset that will be used in this spotlight is on scholarly posts in Faceboo
 
 ### *Spotlight Steps:* ###
 Here I worked in three steps: <br>
-* _Task 1_ :* Setup <br>
-*Task 2:* Data Loading, Exploration, and Preprocessing <br>
-*Task 3:* Topic Modeling and visualization (i) GSDMM, (ii) LDA 
+* __Task 1__ : Setup <br>
+* __Task 2__:* Data Loading, Exploration, and Preprocessing <br>
+* __Task 3__:* Topic Modeling and visualization (i) GSDMM, (ii) LDA 
 
 ### References ###
 1. Zheng, H, et al. (2018) “Social Media Presence of Scholarly Journals”. Journal of the Association for Information Science And Technology, 70(3):256-270.
