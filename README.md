@@ -10,10 +10,10 @@ The aim of this spotlight is to investigate the topics that are being discussed 
 The dataset that will be used in this spotlight is on scholarly posts in Facebook and was originally collected from altmetric.com and used in [5].
 
 ### *Spotlight Steps:* ###
-Here I worked in thre steps:
-*Task 1:* Setup
+Here I worked in three steps:
+*_Task 1:_* Setup
 *Task 2:* Data Loading, Exploration, and Preprocessing
-*Task 3:* Topic Modeling (i) GSDMM, (ii) LDA 
+*Task 3:* Topic Modeling and visualization (i) GSDMM, (ii) LDA 
 
 ### References ###
 1. Zheng, H, et al. (2018) “Social Media Presence of Scholarly Journals”. Journal of the Association for Information Science And Technology, 70(3):256-270.
