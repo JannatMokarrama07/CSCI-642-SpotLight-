@@ -1,5 +1,6 @@
 # CSCI-642-SpotLight-
-## What People are Talking about Scholarly Articles in Facebook? ##
+## What People are Talking about Scholarly Articles in Facebook? <br>
+(for code, please go to the [master branch](https://github.com/JannatMokarrama07/CSCI-642-SpotLight-/tree/master))
 ### *Introduction:* ###
 In recent years, researchers are more actively seen to discuss on research articles in social media, like Facebook, Twitter, LinkedIn, etc. due to their quick and powerful reach and impact to sheer amount of audience. Therefore, social sites are becoming crucial data repository to understand the current trends of research, analyzing the reactions of people to research, getting insights on which types of topics are getting user attention more, etc. [1-3]. This type of analysis is important as it may reveal interesting implicit information about past and current trends of research topics to new researchers and give them an idea how people is going to discuss on their works in future which, at first glance, might not be comprehendible from the voluminous and versatile social data.
 
